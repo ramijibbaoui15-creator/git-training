@@ -1,1 +1,1 @@
-# git-training - version B
+ # git-training - versions A and B
