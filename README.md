@@ -1,1 +1,1 @@
-# git-training
+# git-training - version B
